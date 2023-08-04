@@ -1,0 +1,23 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+# Ignore IDEA-specific directories and files
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# Ignore Eclipse-specific directories and files
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# Ignore project-local repository
+repo
